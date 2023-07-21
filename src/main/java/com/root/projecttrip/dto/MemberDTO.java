@@ -8,5 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 public class MemberDTO {
-
+	
+	private int memId; 
 }
